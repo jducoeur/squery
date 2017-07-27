@@ -38,6 +38,8 @@ sQuery is still basically nascent at this point. What is there works decently we
 
 Collaborators would be highly welcomed. If this is just my baby, it'll evolve gradually, becoming slowly more useful, but will probably never be "complete" in any meaningful sense. If you're interested in working on this and adding pieces, drop me a note -- I'm `jducoeur` pretty much everywhere (particularly on Gitter and Gmail).
 
+Notes on the project can be found in Querki, in the [sQuery Documentation Space](https://www.querki.net/u/jducoeur/squery-documentation/#!squery-documentation). (This isn't really documentation yet, but should eventually grow up to be.)
+
 ### Releases
 
 * **0.1** -- initial release, with Focusable, Findable, Disableable and Cookies.
