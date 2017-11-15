@@ -34,7 +34,7 @@ sQuery is not trying to be a single overarching gadget, nor to monkey-patch into
 
 ### State of the Project
 
-sQuery is still basically nascent at this point. What is there works decently well, but there isn't much there yet. I am adding bits gradually as I refactor jQuery out of my own code, but I'm not trying to create the whole thing at a shot.
+sQuery is still basically nascent at this point. What is there works decently well, but there isn't much there yet, and many of the details aren't right yet. (Several of the existing typeclass instances aren't strongly-enough typed.) I am adding bits gradually as I refactor jQuery out of my own code, but I'm not trying to create the whole thing at a shot.
 
 Collaborators would be highly welcomed. If this is just my baby, it'll evolve gradually, becoming slowly more useful, but will probably never be "complete" in any meaningful sense. If you're interested in working on this and adding pieces, drop me a note -- I'm `jducoeur` pretty much everywhere (particularly on Gitter and Gmail).
 
